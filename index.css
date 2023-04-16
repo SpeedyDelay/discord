@@ -37,12 +37,10 @@ h1 {
     border-radius: 8px;
 }
 
-ul{
-      list-style-type: none;
-
-
-
+li 
+{
+    color: white;
 }
-li{
-    color:white;
+ul{
+    list-style-type: none;
 }
